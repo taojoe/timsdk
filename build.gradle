@@ -2,7 +2,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 
 group='com.github.taojoe'
-version = '2.5.1'
+version = '2.5.6'
 
 buildscript {
     repositories {
